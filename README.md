@@ -1,3 +1,8 @@
+# NOTE TO PROFESSSOR: 
+I created an entirely new repository to submit code, as I was getting some git conflict issues and was running low on time.
+This was the previous repository: https://github.com/insp7/right-whale-recognition. It has all the commits and version history (incase if you were wondering why does this repo has only 1 commit)
+Kindly consider this code. This is similar to that repo, with just me adding citations for the code and this one does not have a few of the newly explored preprocessing approaches for which I did not train the model anyways.
+
 # Right Whale Recognition -- Kaggle Challenge (2015-17)
 To identify endangered right whales in aerial photographs 
 
