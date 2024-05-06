@@ -16,29 +16,14 @@ We are not identifying whales by species, but instead whether it's Kayla, Takara
 - https://www.kaggle.com/code/lucasgvazquez/road-to-the-top-part-1-a-dive-to-the-bottom/notebook
 
 
-<<<<<<< HEAD
 https://arxiv.org/pdf/1604.05605 -
 SOME CHALLENGES
-=======
-Removed annotation: 
-w_7489.jpg,whale_70138,1660.04386839,1343.55333998,1396.64207378,1268.00398804
-
-
-https://arxiv.org/pdf/1604.05605 -
-
->>>>>>> eb3cfaf021a2a8f8385e9cdde7545bae970d9665
 Some of the labels only included a single image of the whale. 
 
 The raw images from the dataset were a very large resolution. Operating on such images would
 require massive processing power. In addition much of the visible area of each image was taken
 up by the water.
 
-<<<<<<< HEAD
-=======
-
-file:///D:/Downloads/North_Atlantic_right_whale_localization_and_recogn.pdf -
-
->>>>>>> eb3cfaf021a2a8f8385e9cdde7545bae970d9665
 These images were captured during several aerial surveys
 and under different lighting and environmental conditions
 
@@ -46,13 +31,9 @@ In addition to these variations, there are many other obstacles, which make thes
 challenging. For instance, for many whales the head is not clear because the whale is blowing
 water 
 
-<<<<<<< HEAD
 The size of the whale with respect to the background (such as the one in image B2) is another challenge.
 
 
 UPDATES made:
 Removed annotation: 
 w_7489.jpg,whale_70138,1660.04386839,1343.55333998,1396.64207378,1268.00398804
-=======
-The size of the whale with respect to the background (such as the one in image B2) is another challenge.
->>>>>>> eb3cfaf021a2a8f8385e9cdde7545bae970d9665
