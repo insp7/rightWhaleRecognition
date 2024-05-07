@@ -31,5 +31,5 @@ NOTE: I have not uploaded the <code>dataset</code> directory. It contains the im
 
 The files <code>extract_bonnet_blowhead.ipynb</code>, <code>extract_bounding_box.ipynb</code> have code to perform the preprocessing which was a popular approach in the top 10 solutions. However, while the preproecssing is performed, I have not trained my model on the preprocessed data. Hence, KINDLY IGNORE these files and you may not consider these for this submission.
 
-<code>img_scale_ratio_info</code> contains the scaling ratio by which the image was initially resized.
+<code>img_scale_ratio_info.csv</code> contains the scaling ratio by which the image was initially resized.
 <code>notes.txt</code> are just some notes I prepared for myself to assist working on this project.
