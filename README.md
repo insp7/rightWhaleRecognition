@@ -27,8 +27,8 @@ The code for data preparation can be found in <code>prepare_data_for_vision_tran
 The code for training the Vision Trasnformer model can be found in <code>train_vit.ipynb</code>
 The code for testing(performing inference) the vision transformer model can be found in <code>test_vit.ipynb</code>
 
-
-
 NOTE: I have not uploaded the <code>dataset</code> directory. It contains the image data and appropriate csv files. [All data sourced from the kaggle challenge]
+
+The files <code>extract_bonnet_blowhead.ipynb</code>, <code>extract_bounding_box.ipynb</code> have code to perform the preprocessing which was a popular approach in the top 10 solutions. However, while the preproecssing is performed, I have not trained my model on the preprocessed data. Hence, KINDLY IGNORE these files and you may not consider these for this submission.
 
 
