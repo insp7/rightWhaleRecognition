@@ -17,3 +17,18 @@ the North Atlantic right whale (E. glacialis), the North Pacific right whale (E.
 
 
 NOTE: I had tried to use these to further preprocess the data, however, that approach is incomplete and have not trained the model on that preprocessed data. It can be performed as future work.
+
+### Code & Structure Explanation
+
+Initially I trained a naive CNN model for this problem. It is present in the file <code>naive-cnn.ipynb</code>.
+
+Later on, I explored the Vision Transformer(ViT) approach and trained a ViT model.
+The code for data preparation can be found in <code>prepare_data_for_vision_transformer.ipynb</code>
+The code for training the Vision Trasnformer model can be found in <code>train_vit.ipynb</code>
+The code for testing(performing inference) the vision transformer model can be found in <code>test_vit.ipynb</code>
+
+
+
+NOTE: I have not uploaded the <code>dataset</code> directory. It contains the image data and appropriate csv files. [All data sourced from the kaggle challenge]
+
+
